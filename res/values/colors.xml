@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- Your existing colors -->
+        <color name="primary">#6200EE</color>
+        <color name="primary_dark">#3700B3</color>
+        <color name="accent">#03DAC5</color>
+
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+
+        <color name="gray">#FF9E9E9E</color>
+        <color name="gray_light">#FFE0E0E0</color>
+        <color name="gray_dark">#FF616161</color>
+
+        <color name="red">#FF0000</color>
+        <color name="green">#00FF00</color>
+        <color name="blue">#0000FF</color>
+        <color name="orange">#FF9800</color>
+
+        <!-- Additional colors for the enhanced design -->
+        <color name="primary_light">#E6DCFA</color>
+        <color name="secondary">#03DAC5</color>
+        <color name="secondary_container">#E0F2F1</color>
+        <color name="on_primary">#FFFFFF</color>
+        <color name="on_secondary_container">#006A63</color>
+
+        <!-- Surface colors -->
+        <color name="surface">#FFFFFF</color>
+        <color name="surface_container">#F5F5F5</color>
+        <color name="surface_container_lowest">#FAFAFA</color>
+        <color name="surface_container_high">#EEEEEE</color>
+
+        <!-- On surface colors -->
+        <color name="on_surface">#1A1A1A</color>
+        <color name="on_surface_variant">#666666</color>
+
+        <!-- Outline colors -->
+        <color name="outline">#C4C4C4</color>
+        <color name="outline_variant">#E0E0E0</color>
+
+        <!-- State colors -->
+        <color name="primary_container">#E6DCFA</color>
+        <color name="on_primary_container">#21005D</color>
+
+        <!-- Error colors -->
+        <color name="error">#BA1A1A</color>
+        <color name="on_error">#FFFFFF</color>
+        <color name="error_container">#FFDAD6</color>
+
+        <!-- Success colors -->
+        <color name="success">#2E7D32</color>
+        <color name="success_container">#C8E6C9</color>
+
+        <!-- Warning colors -->
+        <color name="warning">#F57C00</color>
+        <color name="warning_container">#FFE0B2</color>
+
+        <!-- Info colors -->
+        <color name="info">#0277BD</color>
+        <color name="info_container">#B3E5FC</color>
+
+        <!-- Background colors -->
+        <color name="background">#FFFFFF</color>
+        <color name="on_background">#1A1A1A</color>
+
+        <!-- Inverse colors -->
+        <color name="inverse_surface">#2D2D2D</color>
+        <color name="inverse_on_surface">#F5F5F5</color>
+        <color name="inverse_primary">#D0BCFF</color>
+
+        <!-- Shadow and scrim -->
+        <color name="shadow">#000000</color>
+        <color name="scrim">#1A000000</color>
+
+        <!-- Surface tint -->
+        <color name="surface_tint">#6200EE</color>
+
+        <!-- Primary with opacity variations -->
+        <color name="primary_10">#1A6200EE</color>
+        <color name="primary_20">#336200EE</color>
+        <color name="primary_30">#4D6200EE</color>
+        <color name="primary_40">#666200EE</color>
+        <color name="primary_50">#806200EE</color>
+        <color name="primary_60">#996200EE</color>
+        <color name="primary_70">#B36200EE</color>
+        <color name="primary_80">#CC6200EE</color>
+        <color name="primary_90">#E66200EE</color>
+
+        <!-- Accent with opacity variations -->
+        <color name="accent_10">#1A03DAC5</color>
+        <color name="accent_20">#3303DAC5</color>
+        <color name="accent_30">#4D03DAC5</color>
+        <color name="accent_40">#6603DAC5</color>
+        <color name="accent_50">#8003DAC5</color>
+        <color name="accent_60">#9903DAC5</color>
+        <color name="accent_70">#B303DAC5</color>
+        <color name="accent_80">#CC03DAC5</color>
+        <color name="accent_90">#E603DAC5</color>
+
+        <!-- Status colors -->
+        <color name="status_bar">#3700B3</color>
+        <color name="navigation_bar">#FFFFFF</color>
+
+        <!-- Divider colors -->
+        <color name="divider">#1F000000</color>
+        <color name="divider_inverse">#1FFFFFFF</color>
+
+        <!-- Focus and selection colors -->
+        <color name="focus_color">#1A6200EE</color>
+        <color name="selection_color">#336200EE</color>
+        <color name="hover_color">#0F6200EE</color>
+        <color name="pressed_color">#146200EE</color>
+</resources>
